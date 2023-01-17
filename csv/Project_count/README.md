@@ -1,0 +1,1 @@
+Zliczanie ile razy powtarza się wartość z kolumny [] dla kolumny []. Zapis tego wyniku do pliku CSV i konwersji do ppliku XSLS
